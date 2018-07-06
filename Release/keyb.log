@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  keyb.cpp
+keyb.cpp(94): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+keyb.cpp(95): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+keyb.cpp(96): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  All 238 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  keyb.vcxproj -> C:\Users\Felix\Documents\Visual Studio 2017\Projects\keyb\Release\keyb.exe
