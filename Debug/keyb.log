@@ -1,5 +1,0 @@
-﻿  keyb.cpp
-c:\users\felix\documents\visual studio 2017\projects\keyb\keyb\keyb.cpp(69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\felix\documents\visual studio 2017\projects\keyb\keyb\keyb.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\felix\documents\visual studio 2017\projects\keyb\keyb\keyb.cpp(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  keyb.vcxproj -> C:\Users\Felix\Documents\Visual Studio 2017\Projects\keyb\Debug\keyb.exe
